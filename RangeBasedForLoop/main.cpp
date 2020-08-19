@@ -12,7 +12,7 @@ int main()
 
     for(const int&i :temp)
     {
-     cout << i << endl; //I always find this strange from a syntax point of view
+     cout << i << endl; 
     }
 
     cout << "end of first for loop" << endl;
